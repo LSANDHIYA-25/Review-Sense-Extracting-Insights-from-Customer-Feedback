@@ -2,6 +2,7 @@
 A comprehensive, web-based sentiment analysis system featuring machine learning, active learning, multi-user management, and advanced analytics. Built with Streamlit and scikit-learn for easy deployment and use.
 
 ✨ Key Features
+
 🎯 Core Features
 Real-time Sentiment Analysis: Analyze text instantly with confidence scores
 
